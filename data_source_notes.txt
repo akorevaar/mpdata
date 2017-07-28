@@ -1,0 +1,3 @@
+mp list
+https://catalogue.data.govt.nz/dataset/members-of-parliament
+https://catalogue.data.govt.nz/dataset/f0f878d5-e2da-477d-85a0-4d2006f8b558/resource/89069a40-abcf-4190-9665-3513ff004dd8/download/mps-csv.csv
